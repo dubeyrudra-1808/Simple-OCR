@@ -1,4 +1,6 @@
+Pillow
+matplotlib
 opencv-python
-pytesseract
-numpy
-imutils
+tkinter
+torch
+transformers
